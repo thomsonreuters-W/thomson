@@ -1,0 +1,5 @@
+#!/bin/bash
+echo "today date is `date`"
+echo "presenting working directory is `pwd`"
+echo "current user is `whoami`"
+echo "$LOGNAME"
